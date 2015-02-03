@@ -95,7 +95,7 @@ optional func pathMenuWillAnimateClose(menu: PathMenu)
 
 ## Licence
 
-[MIT](https://github.com/pixyzehn/PathMenu/blob/master/LICENSE.txt)
+[MIT](https://github.com/pixyzehn/PathMenu/blob/master/LICENSE)
 
 ## Author
 
